@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="OldGrades" targetNamespace="http://tempuri.org/OldGrades.xsd" xmlns:mstns="http://tempuri.org/OldGrades.xsd" xmlns="http://tempuri.org/OldGrades.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="srms_collegeConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="srms_collegeConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SIMS.My.MySettings.GlobalReference.Default.srms_collegeConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="old_gradesTableAdapter" GeneratorDataComponentClassName="old_gradesTableAdapter" Name="old_grades" UserDataComponentName="old_gradesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="srms_collegeConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>Select p.StudentNumber, concat(p.FirstName,' ',p.MiddleName,' ',p.LastName) as StudeName, p.Course, g.SubjectCode, g.Description, (g.LecUnit+g.LabUnit) as Units, g.FinalGrade, concat(g.Sem,', ',g.SY) as Semester from studeprofile p join grades_old g on p.StudentNumber=g.StudentNumber</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="StudentNumber" DataSetColumn="StudentNumber" />
+              <Mapping SourceColumn="StudeName" DataSetColumn="StudeName" />
+              <Mapping SourceColumn="Course" DataSetColumn="Course" />
+              <Mapping SourceColumn="SubjectCode" DataSetColumn="SubjectCode" />
+              <Mapping SourceColumn="Description" DataSetColumn="Description" />
+              <Mapping SourceColumn="Units" DataSetColumn="Units" />
+              <Mapping SourceColumn="FinalGrade" DataSetColumn="FinalGrade" />
+              <Mapping SourceColumn="Semester" DataSetColumn="Semester" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="OldGrades" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="OldGrades" msprop:Generator_UserDSName="OldGrades" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="old_grades" msprop:Generator_UserTableName="old_grades" msprop:Generator_RowDeletedName="old_gradesRowDeleted" msprop:Generator_TableClassName="old_gradesDataTable" msprop:Generator_RowChangedName="old_gradesRowChanged" msprop:Generator_RowClassName="old_gradesRow" msprop:Generator_RowChangingName="old_gradesRowChanging" msprop:Generator_RowEvArgName="old_gradesRowChangeEvent" msprop:Generator_RowEvHandlerName="old_gradesRowChangeEventHandler" msprop:Generator_TablePropName="old_grades" msprop:Generator_TableVarName="tableold_grades" msprop:Generator_RowDeletingName="old_gradesRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StudentNumber" msprop:Generator_UserColumnName="StudentNumber" msprop:Generator_ColumnPropNameInRow="StudentNumber" msprop:Generator_ColumnVarNameInTable="columnStudentNumber" msprop:Generator_ColumnPropNameInTable="StudentNumberColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StudeName" msprop:Generator_UserColumnName="StudeName" msprop:Generator_ColumnPropNameInRow="StudeName" msprop:Generator_ColumnVarNameInTable="columnStudeName" msprop:Generator_ColumnPropNameInTable="StudeNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="182" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Course" msprop:Generator_UserColumnName="Course" msprop:Generator_ColumnPropNameInRow="Course" msprop:Generator_ColumnVarNameInTable="columnCourse" msprop:Generator_ColumnPropNameInTable="CourseColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SubjectCode" msprop:Generator_UserColumnName="SubjectCode" msprop:Generator_ColumnPropNameInRow="SubjectCode" msprop:Generator_ColumnVarNameInTable="columnSubjectCode" msprop:Generator_ColumnPropNameInTable="SubjectCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInTable="DescriptionColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Units" msprop:Generator_UserColumnName="Units" msprop:Generator_ColumnPropNameInRow="Units" msprop:Generator_ColumnVarNameInTable="columnUnits" msprop:Generator_ColumnPropNameInTable="UnitsColumn" type="xs:double" />
+              <xs:element name="FinalGrade" msprop:Generator_UserColumnName="FinalGrade" msprop:Generator_ColumnPropNameInRow="FinalGrade" msprop:Generator_ColumnVarNameInTable="columnFinalGrade" msprop:Generator_ColumnPropNameInTable="FinalGradeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Semester" msprop:Generator_UserColumnName="Semester" msprop:Generator_ColumnPropNameInRow="Semester" msprop:Generator_ColumnVarNameInTable="columnSemester" msprop:Generator_ColumnPropNameInTable="SemesterColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="92" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:old_grades" />
+      <xs:field xpath="mstns:StudentNumber" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

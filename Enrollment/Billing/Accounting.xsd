@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Accounting" targetNamespace="http://tempuri.org/Accounting.xsd" xmlns:mstns="http://tempuri.org/Accounting.xsd" xmlns="http://tempuri.org/Accounting.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="srmscollege_demoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="srmscollege_demoConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SIMS.My.MySettings.GlobalReference.Default.srmscollege_demoConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PaymentStatementTableAdapter" GeneratorDataComponentClassName="PaymentStatementTableAdapter" Name="PaymentStatement" UserDataComponentName="PaymentStatementTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="srmscollege_demoConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select a.StudentNumber, concat(a.FirstName,' ',a.LastName) as StudentName, a.Course, YearLevel, a.AcctTotal, a.TotalPayments, a.CurrentBalance, concat(a.Sem,', ',a.SY) as Semester, p.PDate, p.ORNumber, p.Amount, p.description, st.SchoolName, st.SchoolAddress, st.letterHead from studeaccount a join paymentsaccounts p on a.StudentNumber=p.StudentNumber join srms_settings st on a.settingsID=st.settingsID</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="StudentNumber" DataSetColumn="StudentNumber" />
+              <Mapping SourceColumn="StudentName" DataSetColumn="StudentName" />
+              <Mapping SourceColumn="Course" DataSetColumn="Course" />
+              <Mapping SourceColumn="YearLevel" DataSetColumn="YearLevel" />
+              <Mapping SourceColumn="AcctTotal" DataSetColumn="AcctTotal" />
+              <Mapping SourceColumn="TotalPayments" DataSetColumn="TotalPayments" />
+              <Mapping SourceColumn="CurrentBalance" DataSetColumn="CurrentBalance" />
+              <Mapping SourceColumn="Semester" DataSetColumn="Semester" />
+              <Mapping SourceColumn="PDate" DataSetColumn="PDate" />
+              <Mapping SourceColumn="ORNumber" DataSetColumn="ORNumber" />
+              <Mapping SourceColumn="Amount" DataSetColumn="Amount" />
+              <Mapping SourceColumn="description" DataSetColumn="description" />
+              <Mapping SourceColumn="SchoolName" DataSetColumn="SchoolName" />
+              <Mapping SourceColumn="SchoolAddress" DataSetColumn="SchoolAddress" />
+              <Mapping SourceColumn="letterHead" DataSetColumn="letterHead" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Accounting" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Accounting" msprop:Generator_DataSetName="Accounting" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PaymentStatement" msprop:Generator_UserTableName="PaymentStatement" msprop:Generator_RowDeletedName="PaymentStatementRowDeleted" msprop:Generator_RowChangedName="PaymentStatementRowChanged" msprop:Generator_RowClassName="PaymentStatementRow" msprop:Generator_RowChangingName="PaymentStatementRowChanging" msprop:Generator_RowEvArgName="PaymentStatementRowChangeEvent" msprop:Generator_RowEvHandlerName="PaymentStatementRowChangeEventHandler" msprop:Generator_TableClassName="PaymentStatementDataTable" msprop:Generator_TableVarName="tablePaymentStatement" msprop:Generator_RowDeletingName="PaymentStatementRowDeleting" msprop:Generator_TablePropName="PaymentStatement">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StudentNumber" msprop:Generator_UserColumnName="StudentNumber" msprop:Generator_ColumnPropNameInRow="StudentNumber" msprop:Generator_ColumnVarNameInTable="columnStudentNumber" msprop:Generator_ColumnPropNameInTable="StudentNumberColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StudentName" msprop:Generator_UserColumnName="StudentName" msprop:Generator_ColumnPropNameInRow="StudentName" msprop:Generator_ColumnVarNameInTable="columnStudentName" msprop:Generator_ColumnPropNameInTable="StudentNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="91" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Course" msprop:Generator_UserColumnName="Course" msprop:Generator_ColumnPropNameInRow="Course" msprop:Generator_ColumnVarNameInTable="columnCourse" msprop:Generator_ColumnPropNameInTable="CourseColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="YearLevel" msprop:Generator_UserColumnName="YearLevel" msprop:Generator_ColumnPropNameInRow="YearLevel" msprop:Generator_ColumnVarNameInTable="columnYearLevel" msprop:Generator_ColumnPropNameInTable="YearLevelColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AcctTotal" msprop:Generator_UserColumnName="AcctTotal" msprop:Generator_ColumnPropNameInRow="AcctTotal" msprop:Generator_ColumnVarNameInTable="columnAcctTotal" msprop:Generator_ColumnPropNameInTable="AcctTotalColumn" type="xs:double" />
+              <xs:element name="TotalPayments" msprop:Generator_UserColumnName="TotalPayments" msprop:Generator_ColumnPropNameInRow="TotalPayments" msprop:Generator_ColumnVarNameInTable="columnTotalPayments" msprop:Generator_ColumnPropNameInTable="TotalPaymentsColumn" type="xs:double" />
+              <xs:element name="CurrentBalance" msprop:Generator_UserColumnName="CurrentBalance" msprop:Generator_ColumnPropNameInRow="CurrentBalance" msprop:Generator_ColumnVarNameInTable="columnCurrentBalance" msprop:Generator_ColumnPropNameInTable="CurrentBalanceColumn" type="xs:double" />
+              <xs:element name="Semester" msprop:Generator_UserColumnName="Semester" msprop:Generator_ColumnPropNameInRow="Semester" msprop:Generator_ColumnVarNameInTable="columnSemester" msprop:Generator_ColumnPropNameInTable="SemesterColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="92" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PDate" msprop:Generator_UserColumnName="PDate" msprop:Generator_ColumnPropNameInRow="PDate" msprop:Generator_ColumnVarNameInTable="columnPDate" msprop:Generator_ColumnPropNameInTable="PDateColumn" type="xs:dateTime" />
+              <xs:element name="ORNumber" msprop:Generator_UserColumnName="ORNumber" msprop:Generator_ColumnPropNameInRow="ORNumber" msprop:Generator_ColumnVarNameInTable="columnORNumber" msprop:Generator_ColumnPropNameInTable="ORNumberColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:double" />
+              <xs:element name="description" msprop:Generator_UserColumnName="description" msprop:Generator_ColumnPropNameInRow="description" msprop:Generator_ColumnVarNameInTable="columndescription" msprop:Generator_ColumnPropNameInTable="descriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SchoolName" msprop:Generator_UserColumnName="SchoolName" msprop:Generator_ColumnVarNameInTable="columnSchoolName" msprop:Generator_ColumnPropNameInRow="SchoolName" msprop:Generator_ColumnPropNameInTable="SchoolNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SchoolAddress" msprop:Generator_UserColumnName="SchoolAddress" msprop:Generator_ColumnVarNameInTable="columnSchoolAddress" msprop:Generator_ColumnPropNameInRow="SchoolAddress" msprop:Generator_ColumnPropNameInTable="SchoolAddressColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="letterHead" msprop:Generator_UserColumnName="letterHead" msprop:Generator_ColumnPropNameInRow="letterHead" msprop:Generator_ColumnVarNameInTable="columnletterHead" msprop:Generator_ColumnPropNameInTable="letterHeadColumn" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

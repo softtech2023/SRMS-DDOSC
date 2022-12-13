@@ -1,0 +1,812 @@
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\bin\Release\SIMS.exe.config
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\bin\Release\SIMS.exe.manifest
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\bin\Release\SIMS.application
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\bin\Release\SIMS.exe
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\bin\Release\SIMS.pdb
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\bin\Release\SIMS.xml
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCourseFees.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmInstallmentFees.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchORforVoid.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmVoidOR.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmVoidReport.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmPrevGrades.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmselectStudent.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSelectSubjectsPrev.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchInstructors_Scheduling.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSelectSchool0.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmGatePass.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmGatePassDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchGatePass.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmBooksInfo.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmlibrary_payment.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmLoanBooks.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmReturnBooks.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchBooks.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchBooksMain.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSelectAuthor.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSettings.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmParent.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCA.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCASum.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCASummary.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmInstructorsPayrollDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmPayroll_Instructors.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmPaySlip.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmInstrucSearch.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStaffPayroll.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStaffPayrollDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStaffRecords.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCurriculumPrinting.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmAddFees.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmBilling.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCollectionDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCollectionSummaryDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmEditPayments.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmExpenses.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmExpReportDashobard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmOtherIncome.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmPromissory.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmRefund.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearch4Promissory.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchAccountforPayments.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.SearchAccounts.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchBilling.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchOR.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmViewfees.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCapture.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.About.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmClassRooms.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCompleteList.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCourses.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmInstructorInput.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmInstructorSubjects.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmPrevSchool.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmScholarship.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchRooms.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSelectSchool1.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSelectSchool2.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmEnrollmentSummaryDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchCOR.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmIncomeStatement.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmInsurance.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmLoading.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmMainViewer.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmMasterList.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmMasterlistDashboardbyCourse.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmPrintGradingSheet.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmReportPerSection.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmScholarshipDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSelectInstructor.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSelectSubject_Masterlist.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.ChangeSem.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCOR.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmCurriculum.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmFees.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmInputGrades.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.LoginForm.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStudeGrades.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStudeAccount.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.Resources.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmPayment.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchSemesterStudent.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchSemSub_InputGrades.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchSemSubjects.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchStudents.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSearchSubjects.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSemStudent.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStaff.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStudeProfile.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSemSubjects.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmSubjects.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmuseraccounts.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStudeReportDashboard.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmstudeSubSummary.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.frmStudeTOR.resources
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\Enrollment.vbproj.GenerateResource.Cache
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.TrustInfo.xml
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.exe.manifest
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.application
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.exe
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.xml
+C:\Users\Nonoy\Desktop\jib-2.4\Enrollment\Enrollment\obj\Release\SIMS.pdb
+C:\Users\CHIKO\Desktop\cvsc\cvsc\Enrollment\bin\Release\SIMS.exe.config
+D:\SIMS Projects\cvsc\cvsc\Enrollment\bin\Release\SIMS.exe.config
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmAdditionalLabFee.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCourseCollectionSummary.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCourseFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCRR_Dashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmInstallmentFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmOtherIncomDesc.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchORforVoid.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectStude.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeReport_Accounting.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmViewPaymentHistory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmVoidOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmVoidReport.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmAcademic_Calendar.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectSchool2.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmInputGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.SectionUpdater.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectSchool3.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSemStudent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmUpdateScholarship.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmAuthors.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmBooksInfo.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCategory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmLoanBooks.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmLoanStude.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmLocation.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmPublisher.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmReturnBooks.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchBooks.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectAuthor.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectBook.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectBorrower.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStaffLoan.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStaffRet.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmGradesOld.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchGrades_old.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectStudes.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeReport_Old.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCSE.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmEducation.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmFamilyBackground.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmImportDTR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmOtherInfo.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchPersonnel.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmTrainings.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmVW.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmWE.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCategories.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmConsumable.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmConsumableSummary.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmDistribution.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmItemSearch.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmMRDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmPARform.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmProductEntry.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmProducts.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmReportViewer.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchEmployee.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchPersonnel2.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmAdding.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmDroppingForm.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectStudeDrop.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectSubtoAdd.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectStudetoAdd.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmByStudentStat.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmByYearLevelStat.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmChangeLRN.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStatisticsDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmFTE_Records.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmGradApplication.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmEncodeGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmPrevGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmselectStudent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectSubjectsPrev.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmselect_input_grades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmselect_input_stude.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmselect_report_gradingsheet.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchInstructors_Scheduling.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectSchool0.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmGS_Select_Subject.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmInstructor_Search_Grades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmInstructor_Select_Stude.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmselect_instructor_subjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmParent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCertification.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmGraduatingStudes.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmLockUnlockGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmReceiveGradeSheets.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmselectGradeStat.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchEnrollees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeSpecialReport.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeTOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmClassSchedPrinting.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCurriculumPrinting.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmAddFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmBilling.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCollectionDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCollectionSummaryDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmEditPayments.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmExpenses.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmExpReportDashobard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmOtherIncome.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmPromissory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmRefund.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearch4Promissory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchAccountforPayments.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.SearchAccounts.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchBilling.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCapture.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.About.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCompleteList.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCourses.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmPrevSchool.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmScholarship.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchRooms.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectSchool1.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmEnrollmentSummaryDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchCOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmGradingSheets.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmIncomeStatement.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmInsurance.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmLoading.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmMainViewer.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmMasterList.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmMasterlistDashboardbyCourse.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmPrintGradingSheet.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmProspectusDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmReportPerSection.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmRoomSched.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmScholarshipDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmScholarshipDashboardByCourse.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectInstructor.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSelectSubject_Masterlist.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.ChangeSem.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmCurriculum.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.LoginForm.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeAccount.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.Resources.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmPayment.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchSemesterStudent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchSemSub_InputGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchSemSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchStudents.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSearchSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStaff.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeProfile.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSemSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmuseraccounts.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmStudeReportDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmstudeSubSummary.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmRooms.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\SIMS.frmSystemSettings.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\srms-college-new\srms-college\Enrollment\obj\Release\Enrollment.vbproj.GenerateResource.Cache
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\bin\Release\SIMS.exe.config
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\bin\Release\SIMS.exe.manifest
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\bin\Release\SIMS.application
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\bin\Release\SIMS.exe
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\bin\Release\SIMS.pdb
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\bin\Release\SIMS.xml
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmAdditionalLabFee.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCourseCollectionSummary.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCourseFees.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCRR_Dashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmInstallmentFees.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmOtherIncomDesc.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchORforVoid.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectStude.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeReport_Accounting.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmViewPaymentHistory.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmVoidOR.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmVoidReport.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmEnrollmentReportDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmTerminalReport.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmAcademic_Calendar.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectSchool2.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmInputGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.SectionUpdater.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectSchool3.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSemStudent.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmUpdateScholarship.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frminstructor_input.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmAuthors.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmBooksInfo.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCategory.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmLoanBooks.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmLoanStude.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmLocation.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmPublisher.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmReturnBooks.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchBooks.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectAuthor.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectBook.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectBorrower.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStaffLoan.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStaffRet.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmGradesOld.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchGrades_old.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectStudes.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeReport_Old.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCSE.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmEducation.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmFamilyBackground.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmImportDTR.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmOtherInfo.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchPersonnel.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmTrainings.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmVW.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmWE.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCategories.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmConsumable.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmConsumableSummary.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmDistribution.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmItemSearch.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmMRDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmPARform.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmProductEntry.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmProducts.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmReportViewer.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchEmployee.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchPersonnel2.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmAdding.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmDroppingForm.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectStudeDrop.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectSubtoAdd.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectStudetoAdd.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmByEnrollmentStat.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmByStudentStat.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmByYearLevelStat.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmChangeLRN.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStatisticsDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmFTE_Records.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmGradApplication.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmEncodeGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmPrevGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmselectStudent.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectSubjectsPrev.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmselect_input_grades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmselect_input_stude.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmselect_report_gradingsheet.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchInstructors_Scheduling.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectSchool0.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmGS_Select_Subject.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmInstructor_Search_Grades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmInstructor_Select_Stude.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmselect_instructor_subjects.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmParent.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCertification.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmGraduatingStudes.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmLockUnlockGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmReceiveGradeSheets.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmselectGradeStat.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchEnrollees.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeSpecialReport.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeTOR.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmClassSchedPrinting.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmScholarshipDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCurriculumPrinting.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmAddFees.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmBilling.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCollectionDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCollectionSummaryDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmEditPayments.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmExpenses.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmExpReportDashobard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmOtherIncome.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmPromissory.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmRefund.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearch4Promissory.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchAccountforPayments.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.SearchAccounts.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchBilling.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchOR.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCapture.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.About.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCompleteList.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCourses.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmPrevSchool.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmScholarship.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchRooms.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectSchool1.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmEnrollmentSummaryDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchCOR.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmGradingSheets.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmIncomeStatement.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmInsurance.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmLoading.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmMainViewer.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmMasterList.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmMasterlistDashboardbyCourse.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmPrintGradingSheet.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmProspectusDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmReportPerSection.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmRoomSched.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmScholarshipDashboardByCourse.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmScholarshipDashboardV2.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectInstructor.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSelectSubject_Masterlist.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.ChangeSem.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCOR.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmCurriculum.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmFees.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.LoginForm.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeAccount.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.Resources.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmPayment.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchSemesterStudent.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchSemSub_InputGrades.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchSemSubjects.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchStudents.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSearchSubjects.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStaff.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeProfile.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSemSubjects.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSubjects.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmuseraccounts.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmStudeReportDashboard.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmstudeSubSummary.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmRooms.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.frmSystemSettings.resources
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\Enrollment.vbproj.GenerateResource.Cache
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.TrustInfo.xml
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.exe.manifest
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.application
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.exe
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.xml
+C:\Users\Chiko\Dropbox\SRMS PROJECTS\college-demo\college-demo\Enrollment\obj\Release\SIMS.pdb
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\bin\Release\SIMS.exe.config
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\bin\Release\SIMS.exe.manifest
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\bin\Release\SIMS.application
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\bin\Release\SIMS.exe
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\bin\Release\SIMS.pdb
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\bin\Release\SIMS.xml
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmAdditionalLabFee.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmBilling.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCourseCollectionSummary.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCourseFees.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCRR_Dashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmInstallmentFees.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmOtherIncomDesc.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchORforVoid.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectStude.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeReport_Accounting.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmViewPaymentHistory.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmVoidOR.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmVoidReport.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmEnrollmentReportDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmTerminalReport.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmAcademic_Calendar.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectSchool2.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmInputGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.SectionUpdater.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectSchool3.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSemStudent.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmUpdateScholarship.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frminstructor_input.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmAuthors.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmBooksInfo.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCategory.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmLoanBooks.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmLoanStude.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmLocation.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmPublisher.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmReturnBooks.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchBooks.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectAuthor.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectBook.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectBorrower.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStaffLoan.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStaffRet.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmGradesOld.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchGrades_old.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectStudes.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeReport_Old.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCSE.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmEducation.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmFamilyBackground.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmImportDTR.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmOtherInfo.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchPersonnel.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmTrainings.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmVW.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmWE.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCategories.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmConsumable.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmConsumableSummary.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmDistribution.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmmodifyform.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmItemSearch.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmMRDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmPARform.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmProductEntry.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmProducts.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmReportViewer.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchEmployee.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchPersonnel2.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmViewing.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmAdding.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmDroppingForm.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectStudeDrop.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectSubtoAdd.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectStudetoAdd.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmByEnrollmentStat.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmByStudentStat.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmByYearLevelStat.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmChangeLRN.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectGMC.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStatisticsDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmFTE_Records.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmGradApplication.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmEncodeGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmPrevGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmselectStudent.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectSubjectsPrev.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmselect_input_grades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmselect_input_stude.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmselect_report_gradingsheet.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchInstructors_Scheduling.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectSchool0.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmGS_Select_Subject.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmInstructor_Search_Grades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmInstructor_Select_Stude.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmselect_instructor_subjects.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmParent.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCertification.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmGraduatingStudes.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmLockUnlockGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmReceiveGradeSheets.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmselectGradeStat.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchEnrollees.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeSpecialReport.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeTOR.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmClassSchedPrinting.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmScholarshipDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCurriculumPrinting.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmAddFees.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCollectionDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCollectionSummaryDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmEditPayments.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmExpenses.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmExpReportDashobard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmOtherIncome.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmPromissory.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmRefund.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearch4Promissory.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchAccountforPayments.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.SearchAccounts.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchBilling.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchOR.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCapture.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.About.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCompleteList.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCourses.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmPrevSchool.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmScholarship.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchRooms.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectSchool1.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmEnrollmentSummaryDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchCOR.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmGradingSheets.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmIncomeStatement.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmInsurance.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmLoading.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmMainViewer.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmMasterList.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmMasterlistDashboardbyCourse.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmPrintGradingSheet.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmProspectusDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmReportPerSection.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmRoomSched.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmScholarshipDashboardByCourse.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmScholarshipDashboardV2.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectInstructor.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSelectSubject_Masterlist.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.ChangeSem.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCOR.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmCurriculum.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmFees.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.LoginForm.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmstatProgramDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeAccount.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.Resources.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmPayment.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchSemesterStudent.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchSemSub_InputGrades.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchSemSubjects.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchStudents.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSearchSubjects.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStaff.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeProfile.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSemSubjects.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSubjects.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmuseraccounts.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmStudeReportDashboard.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmstudeSubSummary.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmRooms.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.frmSystemSettings.resources
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\Enrollment.vbproj.GenerateResource.Cache
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.TrustInfo.xml
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.exe.manifest
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.application
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.exe
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.xml
+C:\Users\HP2\Google Drive\SRMS\KNP\Enrollment\obj\Release\SIMS.pdb
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\bin\Release\SIMS.exe.config
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\bin\Release\SIMS.exe.manifest
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\bin\Release\SIMS.application
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\bin\Release\SIMS.exe
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\bin\Release\SIMS.pdb
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\bin\Release\SIMS.xml
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmAdditionalLabFee.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmBilling.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCourseCollectionSummary.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCourseFees.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCRR_Dashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmInstallmentFees.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmOtherIncomDesc.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchORforVoid.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectStude.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeReport_Accounting.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmViewPaymentHistory.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmVoidOR.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmVoidReport.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmEnrollmentReportDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmTerminalReport.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmAcademic_Calendar.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSchool2.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmInputGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.SectionUpdater.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSchool3.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSchool4.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSemStudent.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmUpdateScholarship.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCandidatesEntry.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmGraduateEntry.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmListGraduates.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmListCandidates.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchCandidates.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frminstructor_input.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmAuthors.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmBooksInfo.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCategory.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmLoanBooks.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmLoanStude.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmLocation.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmPublisher.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmReturnBooks.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchBooks.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectAuthor.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectBook.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectBorrower.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStaffLoan.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStaffRet.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmGradesOld.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchGrades_old.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectStudes.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeReport_Old.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmImportDTR.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchPersonnel.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCategories.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmConsumable.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmConsumableSummary.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmDistribution.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmmodifyform.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmItemSearch.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmMRDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmPARform.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmProductEntry.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmProducts.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmReportViewer.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchEmployee.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchPersonnel2.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmViewing.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmQSearch.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmAdding.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmDroppingForm.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectStudeDrop.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSubtoAdd.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectStudetoAdd.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmByEnrollmentStat.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmByStudentStat.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmByYearLevelStat.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmChangeLRN.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectGMC.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStatisticsDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmFTE_Records.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmGradApplication.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmEncodeGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmPrevGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmselectStudent.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSubjectsPrev.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmselect_input_grades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmselect_input_stude.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmselect_report_gradingsheet.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchInstructors_Scheduling.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSchool0.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmGS_Select_Subject.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmInstructor_Search_Grades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmInstructor_Select_Stude.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmselect_instructor_subjects.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmParent.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCertification.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmGraduatingStudes.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmLockUnlockGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmReceiveGradeSheets.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmselectGradeStat.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchEnrollees.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeSpecialReport.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeTOR.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmClassSchedPrinting.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmScholarshipDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCurriculumPrinting.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmAddFees.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCollectionDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCollectionSummaryDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmEditPayments.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmExpenses.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmExpReportDashobard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmOtherIncome.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmPromissory.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmRefund.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearch4Promissory.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchAccountforPayments.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.SearchAccounts.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchBilling.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchOR.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCapture.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.About.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCompleteList.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCourses.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmPrevSchool.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmScholarship.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchRooms.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSchool1.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmEnrollmentSummaryDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchCOR.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmGradingSheets.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmIncomeStatement.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmInsurance.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmLoading.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmMainViewer.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmMasterList.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmMasterlistDashboardbyCourse.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmPrintGradingSheet.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmProspectusDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmReportPerSection.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmRoomSched.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmScholarshipDashboardByCourse.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmScholarshipDashboardV2.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectInstructor.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSelectSubject_Masterlist.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.ChangeSem.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCOR.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmCurriculum.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmFees.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.LoginForm.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmstatProgramDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeAccount.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.Resources.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmPayment.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchSemesterStudent.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchSemSub_InputGrades.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchSemSubjects.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchStudents.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSearchSubjects.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeProfile.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSemSubjects.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSubjects.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmuseraccounts.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmStudeReportDashboard.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmstudeSubSummary.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmRooms.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.frmSystemSettings.resources
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\Enrollment.vbproj.GenerateResource.Cache
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.TrustInfo.xml
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.exe.manifest
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.application
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.exe
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.xml
+C:\Users\HP2\Dropbox\SRMS PROJECTS\SRMS-CVSC-NEW\Enrollment\obj\Release\SIMS.pdb

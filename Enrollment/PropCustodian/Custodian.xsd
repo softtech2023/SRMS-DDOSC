@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Custodian" targetNamespace="http://tempuri.org/Custodian.xsd" xmlns:mstns="http://tempuri.org/Custodian.xsd" xmlns="http://tempuri.org/Custodian.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="srmscollege_demoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="srmscollege_demoConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SIMS.My.MySettings.GlobalReference.Default.srmscollege_demoConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="distributionTableAdapter" GeneratorDataComponentClassName="distributionTableAdapter" Name="distribution" UserDataComponentName="distributionTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="srmscollege_demoConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select d.distID, d.transactionNo, d.transactionDate, d.productCode, d.description, d.qty, d.itemName, concat (d.FirstName,' ',d.LastName) as EmployeeName, d.IDNumber, st.letterHead from ls_distribution d join srms_settings st on d.settingsID = st.settingsID</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="distID" DataSetColumn="distID" />
+              <Mapping SourceColumn="transactionNo" DataSetColumn="transactionNo" />
+              <Mapping SourceColumn="transactionDate" DataSetColumn="transactionDate" />
+              <Mapping SourceColumn="productCode" DataSetColumn="productCode" />
+              <Mapping SourceColumn="description" DataSetColumn="description" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="itemName" DataSetColumn="itemName" />
+              <Mapping SourceColumn="EmployeeName" DataSetColumn="EmployeeName" />
+              <Mapping SourceColumn="IDNumber" DataSetColumn="IDNumber" />
+              <Mapping SourceColumn="letterHead" DataSetColumn="letterHead" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ls_productentryTableAdapter" GeneratorDataComponentClassName="ls_productentryTableAdapter" Name="ls_productentry" UserDataComponentName="ls_productentryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="srmscollege_demoConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText> SELECT p.ProductName, p.ProductDescription, p.ProductCode, c.QtyDelivered, c.prodUnit, st.letterhead, st.SchoolHead, st.sHeadPosition, st.PropertyCustodian FROM ls_productentry p INNER JOIN ls_consumables c ON p.ProductCode = c.ProductCode join srms_settings st on c.settingsID=st.settingsID order by p.productName</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ProductName" DataSetColumn="ProductName" />
+              <Mapping SourceColumn="ProductDescription" DataSetColumn="ProductDescription" />
+              <Mapping SourceColumn="ProductCode" DataSetColumn="ProductCode" />
+              <Mapping SourceColumn="QtyDelivered" DataSetColumn="QtyDelivered" />
+              <Mapping SourceColumn="prodUnit" DataSetColumn="prodUnit" />
+              <Mapping SourceColumn="letterhead" DataSetColumn="letterhead" />
+              <Mapping SourceColumn="SchoolHead" DataSetColumn="SchoolHead" />
+              <Mapping SourceColumn="sHeadPosition" DataSetColumn="sHeadPosition" />
+              <Mapping SourceColumn="PropertyCustodian" DataSetColumn="PropertyCustodian" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Custodian" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Custodian" msprop:Generator_DataSetName="Custodian" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="distribution" msprop:Generator_UserTableName="distribution" msprop:Generator_RowDeletedName="distributionRowDeleted" msprop:Generator_RowChangedName="distributionRowChanged" msprop:Generator_RowClassName="distributionRow" msprop:Generator_RowChangingName="distributionRowChanging" msprop:Generator_RowEvArgName="distributionRowChangeEvent" msprop:Generator_RowEvHandlerName="distributionRowChangeEventHandler" msprop:Generator_TableClassName="distributionDataTable" msprop:Generator_TableVarName="tabledistribution" msprop:Generator_RowDeletingName="distributionRowDeleting" msprop:Generator_TablePropName="distribution">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="distID" msprop:Generator_UserColumnName="distID" msprop:Generator_ColumnVarNameInTable="columndistID" msprop:Generator_ColumnPropNameInRow="distID" msprop:Generator_ColumnPropNameInTable="distIDColumn" type="xs:unsignedInt" />
+              <xs:element name="transactionNo" msprop:Generator_UserColumnName="transactionNo" msprop:Generator_ColumnVarNameInTable="columntransactionNo" msprop:Generator_ColumnPropNameInRow="transactionNo" msprop:Generator_ColumnPropNameInTable="transactionNoColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="transactionDate" msprop:Generator_UserColumnName="transactionDate" msprop:Generator_ColumnVarNameInTable="columntransactionDate" msprop:Generator_ColumnPropNameInRow="transactionDate" msprop:Generator_ColumnPropNameInTable="transactionDateColumn" type="xs:dateTime" />
+              <xs:element name="productCode" msprop:Generator_UserColumnName="productCode" msprop:Generator_ColumnVarNameInTable="columnproductCode" msprop:Generator_ColumnPropNameInRow="productCode" msprop:Generator_ColumnPropNameInTable="productCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="description" msprop:Generator_UserColumnName="description" msprop:Generator_ColumnVarNameInTable="columndescription" msprop:Generator_ColumnPropNameInRow="description" msprop:Generator_ColumnPropNameInTable="descriptionColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="qty" msprop:Generator_UserColumnName="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" type="xs:unsignedInt" />
+              <xs:element name="itemName" msprop:Generator_UserColumnName="itemName" msprop:Generator_ColumnVarNameInTable="columnitemName" msprop:Generator_ColumnPropNameInRow="itemName" msprop:Generator_ColumnPropNameInTable="itemNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EmployeeName" msprop:Generator_UserColumnName="EmployeeName" msprop:Generator_ColumnVarNameInTable="columnEmployeeName" msprop:Generator_ColumnPropNameInRow="EmployeeName" msprop:Generator_ColumnPropNameInTable="EmployeeNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="91" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDNumber" msprop:Generator_UserColumnName="IDNumber" msprop:Generator_ColumnVarNameInTable="columnIDNumber" msprop:Generator_ColumnPropNameInRow="IDNumber" msprop:Generator_ColumnPropNameInTable="IDNumberColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="letterHead" msprop:Generator_UserColumnName="letterHead" msprop:Generator_ColumnVarNameInTable="columnletterHead" msprop:Generator_ColumnPropNameInRow="letterHead" msprop:Generator_ColumnPropNameInTable="letterHeadColumn" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ls_productentry" msprop:Generator_UserTableName="ls_productentry" msprop:Generator_RowDeletedName="ls_productentryRowDeleted" msprop:Generator_TableClassName="ls_productentryDataTable" msprop:Generator_RowChangedName="ls_productentryRowChanged" msprop:Generator_RowClassName="ls_productentryRow" msprop:Generator_RowChangingName="ls_productentryRowChanging" msprop:Generator_RowEvArgName="ls_productentryRowChangeEvent" msprop:Generator_RowEvHandlerName="ls_productentryRowChangeEventHandler" msprop:Generator_TablePropName="ls_productentry" msprop:Generator_TableVarName="tablels_productentry" msprop:Generator_RowDeletingName="ls_productentryRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProductName" msprop:Generator_UserColumnName="ProductName" msprop:Generator_ColumnPropNameInRow="ProductName" msprop:Generator_ColumnVarNameInTable="columnProductName" msprop:Generator_ColumnPropNameInTable="ProductNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ProductDescription" msprop:Generator_UserColumnName="ProductDescription" msprop:Generator_ColumnPropNameInRow="ProductDescription" msprop:Generator_ColumnVarNameInTable="columnProductDescription" msprop:Generator_ColumnPropNameInTable="ProductDescriptionColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ProductCode" msprop:Generator_UserColumnName="ProductCode" msprop:Generator_ColumnPropNameInRow="ProductCode" msprop:Generator_ColumnVarNameInTable="columnProductCode" msprop:Generator_ColumnPropNameInTable="ProductCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QtyDelivered" msprop:Generator_UserColumnName="QtyDelivered" msprop:Generator_ColumnPropNameInRow="QtyDelivered" msprop:Generator_ColumnVarNameInTable="columnQtyDelivered" msprop:Generator_ColumnPropNameInTable="QtyDeliveredColumn" type="xs:double" />
+              <xs:element name="prodUnit" msprop:Generator_UserColumnName="prodUnit" msprop:Generator_ColumnPropNameInRow="prodUnit" msprop:Generator_ColumnVarNameInTable="columnprodUnit" msprop:Generator_ColumnPropNameInTable="prodUnitColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="letterhead" msprop:Generator_UserColumnName="letterhead" msprop:Generator_ColumnPropNameInRow="letterhead" msprop:Generator_ColumnVarNameInTable="columnletterhead" msprop:Generator_ColumnPropNameInTable="letterheadColumn" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SchoolHead" msprop:Generator_UserColumnName="SchoolHead" msprop:Generator_ColumnPropNameInRow="SchoolHead" msprop:Generator_ColumnVarNameInTable="columnSchoolHead" msprop:Generator_ColumnPropNameInTable="SchoolHeadColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sHeadPosition" msprop:Generator_UserColumnName="sHeadPosition" msprop:Generator_ColumnPropNameInRow="sHeadPosition" msprop:Generator_ColumnVarNameInTable="columnsHeadPosition" msprop:Generator_ColumnPropNameInTable="sHeadPositionColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PropertyCustodian" msprop:Generator_UserColumnName="PropertyCustodian" msprop:Generator_ColumnPropNameInRow="PropertyCustodian" msprop:Generator_ColumnVarNameInTable="columnPropertyCustodian" msprop:Generator_ColumnPropNameInTable="PropertyCustodianColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:distribution" />
+      <xs:field xpath="mstns:distID" />
+    </xs:unique>
+    <xs:unique name="ls_productentry_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ls_productentry" />
+      <xs:field xpath="mstns:ProductCode" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
